@@ -12,7 +12,5 @@
   • Gmail: Vitor.c.braga27@gmail.com
 </div>
 
-<div class="tenor-gif-embed" data-postid="11367653844143984215" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%">
-  <a href="https://tenor.com/view/solo-leveling-sung-jin-woo-jin-woo-jinwoo-solo-leveling-fight-gif-11367653844143984215"></a>from <a href="https://tenor.com/search/solo+leveling-gifs"></a></div> 
-<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img loading="lazy" src="https://tenor.com/pt-BR/view/solo-leveling-sung-jin-woo-jin-woo-jinwoo-solo-leveling-fight-gif-11367653844143984215" width="491" height="281"/>
 
