@@ -11,3 +11,5 @@
   • Gmail: Vitor.c.braga27@gmail.com
 </div>
 
+
+![Snake animation](https://github.com/Attashiie/Attashiie/blob/output/github-contribution-grid-snake.svg)
