@@ -1,5 +1,5 @@
-## Hello World, me chamo Vitor Canuto Braga ou pode me chamar como "Attashii"! ⛩️
-# Hello World, My name is Vitor Canuto Braga and my nickname is "Attashii"! ⛩️
+# Hello World, me chamo Vitor Canuto Braga ou pode me chamar como "Attashii"! ⛩️
+## Hello World, My name is Vitor Canuto Braga and my nickname is "Attashii"! ⛩️
 
 ## Estou aprendendo
 
