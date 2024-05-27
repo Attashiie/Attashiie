@@ -12,4 +12,5 @@
   • Gmail: Vitor.c.braga27@gmail.com
 </div>
 
+<img loading="lazy" src="https://tenor.com/pt-BR/view/solo-leveling-sung-jin-woo-jin-woo-jinwoo-solo-leveling-fight-gif-11367653844143984215"/>
 
