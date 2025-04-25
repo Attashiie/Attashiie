@@ -1,4 +1,4 @@
-# Hello World, My name is Vitor Canuto Braga and my nickname is "Attashii"! ⛩
+# Hello World, My name is Vitor Canuto Braga and my nickname is "Attashii"!
 
 ## Estou aprendendo
 
