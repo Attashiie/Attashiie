@@ -11,9 +11,7 @@ I'm passionate about turning data into strategic decisions. With a strong backgr
 ## 🛠️ Technologies & Tools
 
 - 🔹 **Linguagens / Languages**:  
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-  ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 - 🔹 **Cloud & DevOps**:  
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -24,7 +22,6 @@ I'm passionate about turning data into strategic decisions. With a strong backgr
 ## 📈 GitHub Stats
 
 ![Attashii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Attashii&show_icons=true&theme=github_dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Attashii&layout=compact&theme=github_dark)
 
 ---
 
