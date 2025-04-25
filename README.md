@@ -1,4 +1,3 @@
-# 👋 Olá! Eu sou o Attashii  
 # 👋 Hi! I'm Attashii  
 
 🎯 **Data Analyst | Programmer |**
@@ -18,7 +17,6 @@ I'm passionate about turning data into strategic decisions. With a strong backgr
 
 ---
 
-## 📈 Estatísticas GitHub  
 ## 📈 GitHub Stats
 
 ![Attashii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Attashii&show_icons=true&theme=github_dark)  
