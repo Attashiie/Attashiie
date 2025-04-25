@@ -1,14 +1,33 @@
-# Hello World, My name is Vitor Canuto Braga and my nickname is "Attashii"!
+# 👋 Olá! Eu sou o Attashii  
+# 👋 Hi! I'm Attashii  
 
-## Estou aprendendo
+🎯 **Data Analyst | Programmer |**
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
+Sou apaixonado por transformar dados em decisões estratégicas. Com forte background em análise de dados, programação e serviços em nuvem, atuo desenvolvendo soluções eficientes e escaláveis para problemas reais.  
+I'm passionate about turning data into strategic decisions. With a strong background in data analysis, programming, and cloud services, I build efficient and scalable solutions for real-world problems.
 
+---
 
-## Contatos
+## 🛠️ Technologies & Tools
 
-<div>
-  • Gmail: Vitor.c.braga27@gmail.com
-  • Discord: attashii_
-</div>
+- 🔹 **Linguagens / Languages**:  
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+  ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
+- 🔹 **Cloud & DevOps**:  
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+---
+
+## 📈 Estatísticas GitHub  
+## 📈 GitHub Stats
+
+![Attashii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Attashii&show_icons=true&theme=github_dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Attashii&layout=compact&theme=github_dark)
+
+---
+
+### ✉️ Contato / Contact
+
+📬 Discord : @attashii_
