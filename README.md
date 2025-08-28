@@ -26,3 +26,4 @@ I'm passionate about turning data into strategic decisions. With a strong backgr
 ### ✉️ Contato / Contact
 
 📬 Discord : @attashii_
+📬 E-mail : vitor.c.braga27@gmail.com
