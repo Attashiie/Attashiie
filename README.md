@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/Attashiie">
-  <img src="https://readme-typing-svg.demolab.com?font=Crimson+Text&size=42&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Vitor+Canuto+Braga;IT+Governance+%E2%86%92+Data+Analyst;Developer+%7C+Data+Analytics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Crimson+Text&size=42&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Vitor+Canuto+Braga;IT+Governance+%E2%86%92+Data+Analyst;Developer+%7C+AI+Specialist" alt="Typing SVG" />
 </a>
 
 <br/>
